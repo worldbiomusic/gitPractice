@@ -1,4 +1,8 @@
 hello
 main added
 sub added
+<<<<<<< HEAD
 hello edited
+=======
+test added
+>>>>>>> testing
